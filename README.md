@@ -12,9 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-- 📫 How to reach me: [Twitter](https://twitter.com/_devalias) is probably the easiest way.
-
 ### About Glenn 'devalias' Grant
 
 Glenn is a full-stack, polyglot developer with an acute interest in the offensive side of security. Whether building something new or finding the cracks to break in, there is always a solution to be found; even if it requires learning something entirely new. If you can improve/automate something, do it, and if you've put the effort in to do so, open-source it and share it with everyone else.
