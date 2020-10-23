@@ -24,7 +24,7 @@ The most likely places you can find me/get in contact are on [Twitter](https://t
 
 I primarily write about things on my [Blog](https://www.devalias.net/), though sometimes I will also post on [Medium](https://medium.com/@devalias), [LinkedIn Articles](https://www.linkedin.com/in/glenn-devalias-grant/detail/recent-activity/posts/), and similar places.
 
-I have presented at a few security conferences and meetups, which I tend to keep track of [on my blog](https://www.devalias.net/speaker/). You can usally find my slides on [Speaker Deck](https://speakerdeck.com/0xdevalias) and/or [SlideShare](https://www.slideshare.net/GlenndevaliasGrant).
+I have presented at a few security conferences and meetups, which I tend to keep track of [on my blog](https://www.devalias.net/speaker/) and in [0xdevalias/presentations](https://github.com/0xdevalias/presentations). You can also usally find my slides on [Speaker Deck](https://speakerdeck.com/0xdevalias) and/or [SlideShare](https://www.slideshare.net/GlenndevaliasGrant).
 
 I like to solve problems, and tend to be quite active on [GitHub](https://github.com/0xdevalias) providing solutions/details for the issues I come across while working on projects.
 
