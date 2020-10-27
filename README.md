@@ -29,3 +29,9 @@ I have presented at a few security conferences and meetups, which I tend to keep
 I like to solve problems, and tend to be quite active on [GitHub](https://github.com/0xdevalias) providing solutions/details for the issues I come across while working on projects.
 
 I also like to contribute answers on [StackOverflow](https://stackoverflow.com/users/1137085/glenn-devalias) / [StackExchange](https://stackexchange.com/users/1156663/devalias?tab=activity) when I run into a common problem that I have managed to solve.
+
+### Fun Stats
+
+[![0xdevalias's github stats](https://github-readme-stats.vercel.app/api?username=0xdevalias&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+(via [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats))
